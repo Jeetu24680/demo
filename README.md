@@ -1,2 +1,3 @@
 # demo
-This is my repository
+This is my repository.
+Author-Jitesh Varshney
